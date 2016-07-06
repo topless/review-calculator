@@ -4,6 +4,8 @@ Arguments for our calculator are provided as a dictionary, `{"domain": "google.c
 
 
 ### Deployed calculation
+Endpoint: **[https://ugntdo49t1.execute-api.eu-central-1.amazonaws.com/prod](https://ugntdo49t1.execute-api.eu-central-1.amazonaws.com/prod)**
+
 You can try the calculator by firing a `PUT` request to the
 deployed api, the desired domain as parameter.
 
